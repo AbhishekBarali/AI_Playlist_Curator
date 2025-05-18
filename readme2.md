@@ -30,8 +30,8 @@ Avoid excessive use with large playlists in a single day, as it may trigger YouT
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/AbhishekBarali/Ytmusic.git
-cd Ytmusic
+git clone https://github.com/AbhishekBarali/AI_Playlist_Curator.git
+cd AI_Playlist_Curator
 ```
 
 Don't have Git? No worries! Just click the green "Code" button at the top of this page and select "Download ZIP", then extract it to a folder on your computer.
