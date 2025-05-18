@@ -1,0 +1,5 @@
+ytmusicapi
+google-generativeai
+python-dotenv
+fuzzywuzzy
+python-Levenshtein
