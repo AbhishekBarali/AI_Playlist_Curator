@@ -69,7 +69,7 @@ pip install -r requirements.txt
 5. **Set up YouTube Music authentication:**
    - Run the following command:
    ```bash
-   ytmusicapi oauth
+   ytmusicapi browser
    ```
    - Follow the on-screen instructions to complete the authentication process
 
