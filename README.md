@@ -7,6 +7,8 @@ An intelligent tool that helps you create curated sub-playlists from your existi
 [![YTMusicAPI](https://img.shields.io/badge/YTMusicAPI-Support-red.svg)](https://ytmusicapi.readthedocs.io/)
 [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-Powered-blueviolet.svg)](https://ai.google.dev/)
 
+[![Watch the video](https://img.youtube.com/vi/okZLTk0UL-k/0.jpg)](https://www.youtube.com/watch?v=okZLTk0UL-k)
+
 ## ✨ Features
 
 - **AI-Powered Curation:** Uses Google's Gemini AI to intelligently select songs matching your criteria
