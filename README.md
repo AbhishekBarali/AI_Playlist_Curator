@@ -7,7 +7,7 @@ An intelligent tool that helps you create curated sub-playlists from your existi
 [![YTMusicAPI](https://img.shields.io/badge/YTMusicAPI-Support-red.svg)](https://ytmusicapi.readthedocs.io/)
 [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-Powered-blueviolet.svg)](https://ai.google.dev/)
 
-[![Watch the video](https://github.com/user-attachments/assets/74376ecb-1f3c-4db2-af41-c51f5738817a)](https://www.youtube.com/watch?v=okZLTk0UL-k)
+[![Watch the video](https://github.com/user-attachments/assets/3f1fa003-890c-42df-93f1-cdf96f2b46ec)](https://www.youtube.com/watch?v=okZLTk0UL-k)
 
 
 ## ✨ Features
