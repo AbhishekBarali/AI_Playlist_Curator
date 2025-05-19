@@ -18,6 +18,7 @@ An intelligent tool that helps you create curated sub-playlists from your existi
 - **Smart Matching:** Uses fuzzy matching to ensure accurate song identification
 - **Human-Like Behavior:** Mimics natural user behavior to avoid API limitations
 - **Batch Processing:** Efficiently handles large playlists by processing songs in batches
+-  **Description Fetching:** It allows the user the user to extract the description of each song to improve it's accuracy
 
 ## ⚠️ DISCLAIMER
 
