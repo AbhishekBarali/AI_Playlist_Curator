@@ -126,7 +126,7 @@ def get_fetch_details_preference() -> bool:
     print("Would you like to fetch detailed descriptions for each song (from YouTube)?")
     print("This can provide more context to the AI but will significantly increase processing time and API calls.")
     while True:
-        choice = input("Fetch full song details? (yes/no)(Enabled mode only reccomended using twice a day at max) : ").strip().lower()
+        choice = input("Fetch full song details? (yes/no)(Not recommended if you have a really big playlist.) : ").strip().lower()
         if choice in ['yes', 'y']:
             print("Fetching full song details ENABLED.")
             return True
